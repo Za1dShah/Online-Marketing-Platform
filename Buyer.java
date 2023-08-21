@@ -29,7 +29,7 @@ class Buyer extends User implements CartOperations {
             System.out.println("Products in your cart:");
             for (int i = 0; i < cart.size(); i++) {
                 Product product = cart.get(i);
-                System.out.println((i + 3) + ". " + product.getName());
+                System.out.println((i + 1) + ". " + product.getName());
             }
 
             System.out.print("Enter the name of the product to remove: ");
