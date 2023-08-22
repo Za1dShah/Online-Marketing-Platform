@@ -1,9 +1,0 @@
-Lumeire&Co.,lummy123,lumiereandco@gmail.com,Seller
-Fluere Couture,fleaaaa123,fluerecouture@gmail.com,Seller
-Lumeva Beauty,lumii1234,lumevabeauty@gmail.com,Seller
-Ambrosia Home Co.,ambhc123,ambrosiahomeco@gmail.com,Seller
-Afrah,130304,afrah@gmail.com,Buyer
-Mubassir,210405,muba05@gmail.com,Buyer
-Zaid,311204,zaid@gmail.com,Buyer
-Khan,khansahab,khan@gmail.com,Seller
-raha,123,raha@gmail.com,Buyer
